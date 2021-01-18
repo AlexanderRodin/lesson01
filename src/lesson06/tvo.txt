@@ -1,0 +1,28 @@
+If you believe an article about you or your organization is incomplete, inaccurate, or biased,
+there are several avenues for you to discuss the issue with Wikipedia's editorial community.
+Location of the talk page tab
+Wikipedia does not have a centralised author or content reviewer,
+and our content is maintained by volunteer editors. The people who have edited or who monitor your article are
+probably the best first point of contact.
+People who edit or monitor your article can be reached by leaving a note detailing your issues on the
+article's "talk" page. This can be found by clicking the "talk" link at the top of your article.
+Once you're there, click the "new section" tab to the right of that. This will create a new section, where you
+can post your specific comments or concerns - put {{request edit}} at the top of your new section to indicate
+your conflict of interest and ask for the edits to be done for you. Click "Publish page", and your new section
+will be added immediately.
+If leaving a message on the talk page does not help, you can leave a message at the help desk,
+which is more frequently monitored.
+Alternatively, you can reach other experienced volunteers by emailing info-en-q@wikimedia.org.
+Please include the address or title of your article and specific information on the problems you have with it.
+While your email will likely remain confidential, certain unforeseen circumstances, including but not limited to
+security breaches, subpoenas, or leaks, might compromise that confidentiality. Note that while volunteers may
+assist you in removing very bad data, they will not add new data for you - for such edits you need to use the
+talk page as described above.
+If you're interested in donating photographs to illustrate your article or adding a recording of your voice,
+you can upload them yourself and include them in the article. Alternatively, you can email
+photosubmission@wikimedia.org . Please include the photograph in question, along with a statement
+that you own the copyright on it, and an agreement to release it under a free license.
+Our recommended license is the Creative Commons Attribution-ShareAlike 4.0 license.
+If you don't own the copyright, please ask the photographer or copyright owner to send in a release instead.
+The "declaration of consent" may be used if desired.
+
